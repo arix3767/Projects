@@ -1,0 +1,2 @@
+schabowy -> schabowy cena: 24.4 true
+herbata -> z cytry cena: 7.0 true
